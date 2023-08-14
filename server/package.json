@@ -1,0 +1,18 @@
+{
+  "name": "mozic",
+  "version": "1.0.0",
+  "description": "This is a SHAZAM clone.I hope that the project will come out good.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Devansh Sachan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
